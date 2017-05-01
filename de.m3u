@@ -1,0 +1,216 @@
+#EXTINF:-1,*-*-* Russia*-*-*
+#EXTINF:-1,TV1 
+http://51.255.95.9:8080/live/Vipfull/fullx13/1668.ts
+#EXTINF:-1,РОССИЯ 1 
+http://hls.peers.tv/streaming/rossija/126/variable.m3u8?token=ec63725402c5f73e061edfbbfb0995c9
+#EXTINF:-1,СТС МИР
+http://hls.peers.tv/streaming/sts/16/tvrec/playlist.m3u8
+#EXTINF:-1,HTB
+http://217.182.138.85:7000/live/mich/mich/4747.ts
+#EXTINF:-1,МИР 24
+http://hls.peers.tv/streaming/mir24/16/tvrecw/playlist.m3u8?token=ec63725402c5f73e061edfbbfb0995c9
+#EXTINF:-1,Russia 1 
+http://37.187.251.142:8000/live/royals/royals/5126.ts
+#EXTINF:-1,Rossiya 24
+http://51.255.95.9:8080/live/Vipfull/fullx13/1658.ts
+#EXTINF:-1,FOOTBALL 1 HD 
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/21811.ts
+#EXTINF:-1,RTL
+http://51.255.95.9:8080/live/Vipfull/fullx13/1659.ts
+#EXTINF:-1,STS International 
+http://51.255.95.9:8080/live/Vipfull/fullx13/563.ts
+#EXTINF:-1,Eurosport
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/7072.ts
+#EXTINF:-1,Eurosport 2
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/7071.ts
+#EXTINF:-1,Euronews
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/7082.ts
+#EXTINF:-1,Geo wild
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/7099.ts
+#EXTINF:-1,National Geographics
+http://193.70.44.113:2500/live/hEKRrQaSO2/I6a3utY6c3/3395.ts
+#EXTINF:-1,Animal Planet
+http://51.255.95.9:8080/live/Vipfull/fullx13/1687.ts
+#EXTINF:-1,Cartoon
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/7092.ts
+#EXTINF:-1,Fox 
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/7080.ts
+#EXTINF:-1,НОВОЕ ТВ
+http://hls.peers.tv/streaming/novoe_televidenie/318/tvrecw
+#EXTINF:-1,Рен ТВ
+http://37.235.226.39:81/udp/225.50.66.51:1234
+#EXTINF:-1,ТВ3
+http://37.235.170.49:81/udp/225.50.66.55:1234
+#EXTINF:-1,,5 kanal
+http://188.134.95.181:81/udp/235.10.10.12:1234
+#EXTINF:-1,*-*-* Germany*-*-*
+#EXTINF:-1,DE: Das Erste
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6544.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6543.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6542.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6541.ts
+#EXTINF:-1,DE: Disney XD HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6540.ts
+#EXTINF:-1,DE: Film Club 1 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6535.ts
+#EXTINF:-1,DE: Film Club 2 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6534.ts
+#EXTINF:-1,DE: Film Club 3 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6533.ts
+#EXTINF:-1,DE: Film Club 4 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6532.ts
+#EXTINF:-1,DE: Film Club 5 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6531.ts
+#EXTINF:-1,DE: Film Club 6 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6530.ts
+#EXTINF:-1,DE: FOX HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6529.ts
+#EXTINF:-1,DE: Kabel 1
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6526.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6525.ts
+#EXTINF:-1,DE: Kabel Classic HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6524.ts
+#EXTINF:-1,DE: Kabel1 Doku
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6523.ts
+#EXTINF:-1,DE: KIKA HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6522.ts
+#EXTINF:-1,DE: Kinowelt TV HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6518.ts
+#EXTINF:-1,DE: Motorvision HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6517.ts
+#EXTINF:-1,DE: Nick HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6509.ts
+#EXTINF:-1,DE: Nick JR HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6508.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6507.ts
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6500.ts
+#EXTINF:-1,DE: Prosieben Fun HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6498.ts
+#EXTINF:-1,DE: Prosieben HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6497.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6494.ts
+#EXTINF:-1,DE: RTL HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6491.ts
+#EXTINF:-1,DE: Sat 1
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6485.ts
+#EXTINF:-1,DE: Sat 1 Emotions
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6484.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6481.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6480.ts
+#EXTINF:-1,DE: Sky Cartoon Network HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6479.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6478.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6477.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6476.ts
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6475.ts
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6474.ts
+#EXTINF:-1,De: Sky Cinema Hits HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6472.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6471.ts
+#EXTINF:-1,DE: Sky DMAX
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6470.ts
+#EXTINF:-1,DE: Sky Krimi
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6469.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6468.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6467.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6466.ts
+#EXTINF:-1,DE: SKY Select 4 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6465.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6473.ts
+#EXTINF:-1,DE: SKY Select 5 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6464.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6463.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6462.ts
+#EXTINF:-1,DE: Sky Select 8 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6461.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6460.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6416.ts
+#EXTINF:-1,DE: Sky Sport 1 BackUp
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6415.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6414.ts
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6413.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6412.ts
+#EXTINF:-1,DE: Sky Sport 2 BackUp
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6411.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6410.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6409.ts
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6408.ts
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6407.ts
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6406.ts
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6405.ts
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6404.ts
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6403.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6402.ts
+#EXTINF:-1,DE: Sport Digital HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6383.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6401.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 SD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6400.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6399.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6398.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 SD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6397.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6396.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 SD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6395.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6394.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 SD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6393.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6392.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 SD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6391.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6390.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6389.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6388.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6387.ts
+#EXTINF:-1,DE: SPORT 1 HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6384.ts
+#EXTINF:-1,DE: SKY Sport News HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6386.ts
+#EXTINF:-1,DE: Sony HD
+http://riobo90.dyndns.tv:15800/live/FilippoGP/27042017GP/6385.ts
